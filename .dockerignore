@@ -1,0 +1,41 @@
+# Git
+../.git
+../.gitignore
+
+# Python
+../.venv
+../venv
+**/__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Environment
+../.env
+
+# Documentation
+../docs
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
+
+# Docker
+.docker
